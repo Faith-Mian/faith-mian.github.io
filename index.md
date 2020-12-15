@@ -1,10 +1,13 @@
 ## Welcome to my live source
 
-You can use the [editor on GitHub](https://github.com/Faith-Mian/faithmian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### live source as belows
+
+source1: [2020-11-26河南科技大学教育网.txt](https://faith-mian.github.io/2020-11-26河南科技大学教育网.txt) 
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,6 +28,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+'hello,world!'
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
