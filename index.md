@@ -1,25 +1,7 @@
 
-# 施工中!
-
-## 还在施工中！
-
-### 永远在施工中
-
-- source1: [nodes]()
-- source2: 
 
 
-### live source as belows
-
-source1: ~~[河南科技大学教育网.txt](https://faith-mian.github.io/2020-11-26河南科技大学教育网.txt) **360p less**~~
-
-source2: ~~[全网直播源.txt](faith-mian.github.io/全网直播源.txt) )**HD grouped**~~
-
-source3: ~~[4K频道.txt](faith-mian.github.io/4K频道.txt)**4KHD**~~
-
-
-
-# 正文
+# NPatch-v1.0.6-668-release.apk
 
 这段更新日志主要涉及 Android 逆向、Hook 框架以及对抗加固和深度环境检测的技术细节。原文已经是繁体中文，如果你需要将其转换为简体中文，以下是翻译好的版本：
 
